@@ -1,0 +1,20 @@
+# TRIXCAMP-Web 
+
+Plataforma web para gestión de camps deportivos desarrollada en equipo ágil (5 integrantes) durante sep-dic 2025 en la UTSC.
+
+## Funcionalidades principales
+- Autenticación de usuarios (registro y login)
+- Dashboard administrador
+- Gestión de equipos, jugadores, campos deportivos y entrenamientos
+- Monitoreo de condiciones y agendamiento
+
+## Tecnologías utilizadas
+- **Frontend**: Vue.js 3
+- **Backend**: Node.js + Express
+- **Base de datos**: MySQL / MongoDB
+- **Otros**: Git, metodologías ágiles (Scrum, sprints, backlog)
+
+## Metodología
+- Sprint 1 completado: Autenticación y dashboard
+- Velocidad del equipo: 5 puntos por sprint
+- Definition of Done (DoD) con pruebas unitarias y revisión de código
